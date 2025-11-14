@@ -44,7 +44,7 @@ Power BI – Module Completed
 📂 Internship Project – Quazze Software  
 → Designed 7+ social media creatives  
 → Used Canva, research, content structuring  
-→ View full project folder: /Internship-Quazze
+→ View full project folder: [/Internship-Quazze](https://github.com/U186/Ujjwal-portfolio/tree/main)
 
 ------------------------------------------------------------
 
