@@ -56,7 +56,7 @@ Creative Skills:
 • Canva  
 • Digital Marketing Basics  
 
-Languages:
+Languages:           
 • English (Fluent)  
 • Hindi (Fluent)
 
