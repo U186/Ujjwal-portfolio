@@ -38,8 +38,13 @@ Power BI – Module Completed
 
 [<img width="480" height="239" alt="image" src="https://github.com/user-attachments/assets/8e292a69-430c-4ed2-9f92-f5a3b7586c32" />](https://learn.microsoft.com/en-gb/users/ujjwaljain-5436/achievements/w2gvf9cn)
 
+------------------------------------------------------------
 
 
+📂 Internship Project – Quazze Software  
+→ Designed 7+ social media creatives  
+→ Used Canva, research, content structuring  
+→ View full project folder: /Internship-Quazze
 
 ------------------------------------------------------------
 
