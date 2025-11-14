@@ -37,14 +37,14 @@ Highlights:
 Power BI – Module Completed
 
 
-![Power BI Badge](<img width="480" height="239" alt="image" src="https://github.com/user-attachments/assets/8e292a69-430c-4ed2-9f92-f5a3b7586c32" />)
+![Power BI Badge]<img width="480" height="239" alt="image" src="https://github.com/user-attachments/assets/8e292a69-430c-4ed2-9f92-f5a3b7586c32" />[https://learn.microsoft.com/en-gb/users/ujjwaljain-5436/achievements/w2gvf9cn]
 
 
 ------------------------------------------------------------
 
 🛠 Skills
 
-Data and Technical Skills:
+Data and Technical Skills:       
 • Excel (Advanced)  
 • Power BI (Beginner)  
 • SQL (Learning)  
@@ -52,7 +52,7 @@ Data and Technical Skills:
 • Financial Modelling (Learning)  
 • MS Office  
 
-Creative Skills:
+Creative Skills:      
 • Canva  
 • Digital Marketing Basics  
 
