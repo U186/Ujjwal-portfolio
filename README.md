@@ -36,8 +36,9 @@ Highlights:
 🏅 Microsoft Badge  
 Power BI – Module Completed
 
+<img width="480" height="239" alt="image" src="https://github.com/user-attachments/assets/8e292a69-430c-4ed2-9f92-f5a3b7586c32" />
 
-![Power BI Badge]<img width="480" height="239" alt="image" src="https://github.com/user-attachments/assets/8e292a69-430c-4ed2-9f92-f5a3b7586c32" />[https://learn.microsoft.com/en-gb/users/ujjwaljain-5436/achievements/w2gvf9cn]
+[https://learn.microsoft.com/en-gb/users/ujjwaljain-5436/achievements/w2gvf9cn]
 
 
 ------------------------------------------------------------
