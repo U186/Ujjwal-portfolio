@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a B.S. student in E-Commerce Operations & Digital Applications with a growing focus on **Data Analytics, Power BI, Excel, Financial Modelling, and Digital Marketing**.
+I'm a B.S. student in E-Commerce Operations & Digital Applications with a growing focus on **Data Analytics, Power BI, Excel, and Digital Marketing**.
 
 - 🔭 Currently focused on deepening my **SQL & Python** skills
 - 📊 Passionate about turning raw data into actionable insights
