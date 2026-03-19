@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>B.S. in E-Commerce Operations & Digital Applications</b><br>
-  Aspiring Data Analyst · Digital Marketing · Finance Enthusiast
+  Aspiring Data Analyst · Digital Marketing 
 </p>
 
 <p align="center">
